@@ -1,0 +1,28 @@
+{
+  "name": "huyngo113-main",
+  "version": "1.0.0",
+  "description": "Funny Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huyngo113/Huyngo113.git"
+  },
+  "keywords": [
+    "quote",
+    "github",
+    "profile",
+    "README"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huyngo113/Huyngo113/issues"
+  },
+  "homepage": "https://github.com/Huyngo113/Huyngo113#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
