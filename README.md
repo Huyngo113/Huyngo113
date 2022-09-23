@@ -1,3 +1,3 @@
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Brene Brown
+Paul Brown
